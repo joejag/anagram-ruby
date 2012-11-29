@@ -1,7 +1,8 @@
 anagram-ruby
 ============
 
-Kata Six Anagrams from PragDave
+Kata Six Anagrams from PragDave:
+[http://codekata.pragprog.com/2007/01/kata_six_anagra.html](http://codekata.pragprog.com/2007/01/kata_six_anagra.html)
 
 Tailed Output
 ============
